@@ -14,5 +14,19 @@
     "itty-router": "^3.0.12",
     "typescript": "^5.5.2",
     "wrangler": "^3.60.3"
+  },
+  "dependencies": {
+    "@react-email/body": "^0.0.8",
+    "@react-email/button": "^0.0.15",
+    "@react-email/container": "^0.0.12",
+    "@react-email/head": "^0.0.9",
+    "@react-email/heading": "^0.0.12",
+    "@react-email/hr": "^0.0.8",
+    "@react-email/html": "^0.0.8",
+    "@react-email/img": "^0.0.8",
+    "@react-email/link": "^0.0.8",
+    "@react-email/render": "^0.0.16",
+    "@react-email/section": "^0.0.12",
+    "@react-email/text": "^0.0.8"
   }
 }
